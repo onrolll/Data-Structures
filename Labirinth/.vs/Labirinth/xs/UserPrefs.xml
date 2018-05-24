@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F3D8F1E3-A114-4FF0-BCD5-744317A8EAB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labirinth/Program.cs">
+    <Files>
+      <File FileName="Labirinth/Program.cs" Line="114" Column="19" />
+      <File FileName="Labirinth/Cell.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Labirinth PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

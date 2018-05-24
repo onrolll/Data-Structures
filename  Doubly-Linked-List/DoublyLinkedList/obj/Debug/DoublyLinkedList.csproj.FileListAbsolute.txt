@@ -1,0 +1,14 @@
+/Users/onrolll/Downloads/01. Doubly-Linked-List-CSharp-Skeleton/DoublyLinkedList/bin/Debug/DoublyLinkedList.exe
+/Users/onrolll/Downloads/01. Doubly-Linked-List-CSharp-Skeleton/DoublyLinkedList/bin/Debug/DoublyLinkedList.pdb
+/Users/onrolll/Downloads/01. Doubly-Linked-List-CSharp-Skeleton/DoublyLinkedList/obj/Debug/DoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/onrolll/Downloads/01. Doubly-Linked-List-CSharp-Skeleton/DoublyLinkedList/obj/Debug/DoublyLinkedList.exe
+/Users/onrolll/Downloads/01. Doubly-Linked-List-CSharp-Skeleton/DoublyLinkedList/obj/Debug/DoublyLinkedList.pdb
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/obj/Debug/DoublyLinkedList.csprojResolveAssemblyReference.cache
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/obj/Debug/DoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/obj/Debug/DoublyLinkedList.exe
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/obj/Debug/DoublyLinkedList.pdb
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/bin/Debug/DoublyLinkedList.exe
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/bin/Debug/DoublyLinkedList.pdb
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/bin/Debug/nunit.framework.dll
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/bin/Debug/nunit.framework.pdb
+/Users/onrolll/Developer/algorithms_data_structures/ Doubly-Linked-List/DoublyLinkedList/bin/Debug/nunit.framework.xml

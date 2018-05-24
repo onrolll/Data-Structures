@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DCCEF4A4-2968-4885-A498-B02C33B5A381}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedQueue.cs">
+    <Files>
+      <File FileName="LinkedQueue.cs" Line="34" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5__Linked__Queue PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.csprojResolveAssemblyReference.cache
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.csproj.CoreCompileInputs.cache
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.AssemblyInfoInputs.cache
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.AssemblyInfo.cs
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/bin/Debug/netcoreapp2.0/BasicTreeDataStructures.deps.json
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/bin/Debug/netcoreapp2.0/BasicTreeDataStructures.runtimeconfig.json
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/bin/Debug/netcoreapp2.0/BasicTreeDataStructures.runtimeconfig.dev.json
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/bin/Debug/netcoreapp2.0/BasicTreeDataStructures.dll
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/bin/Debug/netcoreapp2.0/BasicTreeDataStructures.pdb
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.dll
+/Users/onrolll/Projects/BasicTreeDataStructures/BasicTreeDataStructures/obj/Debug/netcoreapp2.0/BasicTreeDataStructures.pdb

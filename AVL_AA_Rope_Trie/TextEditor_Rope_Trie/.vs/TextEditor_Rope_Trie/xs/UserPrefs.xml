@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8EE30DE0-6F50-448E-BDED-9AFF07D17D07}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextEditor_Rope_Trie/Trie.cs">
+    <Files>
+      <File FileName="TextEditor_Rope_Trie/Program.cs" Line="72" Column="15" />
+      <File FileName="TextEditor_Rope_Trie/Trie.cs" Line="93" Column="9" />
+      <File FileName="TextEditor_Rope_Trie/ITextEditor.cs" Line="21" Column="1" />
+      <File FileName="TextEditor_Rope_Trie/TextEditor.cs" Line="100" Column="4" />
+      <File FileName="../../../../../../.nuget/packages/softuni.wintellect.powercollections/1.1.5733.22550/readme.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TextEditor__Rope__Trie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

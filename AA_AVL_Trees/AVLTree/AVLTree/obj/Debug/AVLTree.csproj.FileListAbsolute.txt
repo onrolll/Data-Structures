@@ -1,0 +1,10 @@
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/AVLTree.exe.config
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/AVLTree.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/AVLTree.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/nunit.framework.dll
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/nunit.framework.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/bin/Debug/nunit.framework.xml
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/obj/Debug/AVLTree.csprojResolveAssemblyReference.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/obj/Debug/AVLTree.csproj.CoreCompileInputs.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/obj/Debug/AVLTree.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/AA_AVL_Trees/AVLTree/AVLTree/obj/Debug/AVLTree.pdb

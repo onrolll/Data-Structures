@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6B3DE6C1-DF9C-4C47-B007-81CBB0DA8BBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests.ArrayList/ArrayListTests.cs">
+    <Files>
+      <File FileName="Lists/Program.cs" Line="1" Column="1" />
+      <File FileName="Lists/ArrayList.cs" Line="1" Column="1" />
+      <File FileName="Lists/App.config" Line="1" Column="1" />
+      <File FileName="Tests.ArrayList/ArrayListTests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

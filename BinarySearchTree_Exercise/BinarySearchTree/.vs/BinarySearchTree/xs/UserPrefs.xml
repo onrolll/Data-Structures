@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{535B6A0A-8ED5-4580-ABAE-CD7E251578F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.BinarySearchTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearchTree.cs">
+    <Files>
+      <File FileName="BinarySearchTree.cs" Line="63" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/onrolll/Developer/algorithms_data_structures/04-2/BinarySearchTree/BinarySearchTree.cs" relfile="BinarySearchTree.cs" line="606" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

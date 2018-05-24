@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{37B614FC-787D-4974-887A-A4F302682F01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="First-Last-List/PerformanceTestsFirstLastList.cs">
+    <Files>
+      <File FileName="First-Last-List/Template.cs" Line="31" Column="2" />
+      <File FileName="First-Last-List/UnitTestsFirstLastList.cs" Line="354" Column="42" />
+      <File FileName="First-Last-List/Program.cs" Line="56" Column="31" />
+      <File FileName="First-Last-List/PerformanceTestsFirstLastList.cs" Line="108" Column="12" />
+      <File FileName="First-Last-List/FirstLastList.cs" Line="203" Column="6" />
+      <File FileName="First-Last-List/IFirstLastList.cs" Line="14" Column="2" />
+      <File FileName="First-Last-List/FirstLastListFactory.cs" Line="1" Column="1" />
+      <File FileName="packages/SoftUni.Wintellect.PowerCollections.1.1.5733.22550/readme.txt" Line="1" Column="1" />
+      <File FileName="First-Last-List/App.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="First-Last-List" expanded="True">
+            <Node name="First-Last-List" expanded="True">
+              <Node name="PerformanceTestsFirstLastList" expanded="True">
+                <Node name="TestPerformance_RemoveAll" selected="True" />
+              </Node>
+              <Node name="TestClass1" expanded="True" />
+              <Node name="UnitTestsFirstLastList" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/AVL_AA_Rope_Trie/First-Last-List/First-Last-List/Program.cs" relfile="First-Last-List/Program.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.First-Last-List PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

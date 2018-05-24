@@ -1,0 +1,10 @@
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/Trie.exe.config
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/Trie.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/Trie.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/nunit.framework.dll
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/nunit.framework.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/bin/Debug/nunit.framework.xml
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/obj/Debug/Trie.csprojResolveAssemblyReference.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/obj/Debug/Trie.csproj.CoreCompileInputs.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/obj/Debug/Trie.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Labs/Rope&Trie/08/Trie/obj/Debug/Trie.pdb

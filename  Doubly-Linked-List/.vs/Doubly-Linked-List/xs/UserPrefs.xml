@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{2CB50F92-35AF-47E5-BA6F-02446AACD536}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoublyLinkedList/DoublyLinkedList.cs">
+    <Files>
+      <File FileName="DoublyLinkedList/DoublyLinkedList.cs" Line="22" Column="17" />
+      <File FileName="DoublyLinkedList/UnitTestsDoublyLinkedList.cs" Line="94" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Doubly-Linked-List" expanded="True">
+            <Node name="DoublyLinkedList" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DoublyLinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

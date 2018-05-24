@@ -1,0 +1,11 @@
+/Users/onrolll/Projects/Labirinth/Labirinth/bin/Debug/netcoreapp2.0/Labirinth.deps.json
+/Users/onrolll/Projects/Labirinth/Labirinth/bin/Debug/netcoreapp2.0/Labirinth.runtimeconfig.json
+/Users/onrolll/Projects/Labirinth/Labirinth/bin/Debug/netcoreapp2.0/Labirinth.runtimeconfig.dev.json
+/Users/onrolll/Projects/Labirinth/Labirinth/bin/Debug/netcoreapp2.0/Labirinth.dll
+/Users/onrolll/Projects/Labirinth/Labirinth/bin/Debug/netcoreapp2.0/Labirinth.pdb
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.csprojResolveAssemblyReference.cache
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.csproj.CoreCompileInputs.cache
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.AssemblyInfoInputs.cache
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.AssemblyInfo.cs
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.dll
+/Users/onrolll/Projects/Labirinth/Labirinth/obj/Debug/netcoreapp2.0/Labirinth.pdb

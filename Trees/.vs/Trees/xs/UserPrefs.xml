@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0A73A822-C139-4698-AE8B-3A789B6A22CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trees/BinaryTree.cs">
+    <Files>
+      <File FileName="Trees.Tests/UnitTestsTree.cs" Line="1" Column="1" />
+      <File FileName="Trees.Tests/UnitTestsBinaryTree.cs" Line="1" Column="1" />
+      <File FileName="Trees/Tree.cs" Line="75" Column="23" />
+      <File FileName="Trees/PlayWithTrees.cs" Line="18" Column="1" />
+      <File FileName="Trees/BinaryTree.cs" Line="1" Column="1" />
+      <File FileName="Trees/App.config" Line="1" Column="1" />
+      <File FileName="Trees.Tests/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Trees/TreeTests.cs" Line="34" Column="11" />
+      <File FileName="Trees/BinaryTreeTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Trees" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/onrolll/Developer/algorithms_data_structures/Trees/Trees/PlayWithTrees.cs" relfile="Trees/PlayWithTrees.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Trees.Tests/Trees.Tests.csproj</String>
+  </DisabledProjects>
+</Properties>

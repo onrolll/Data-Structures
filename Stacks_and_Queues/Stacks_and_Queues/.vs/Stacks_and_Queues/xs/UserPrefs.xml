@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5F1800AC-F745-49C0-9E57-C6C162EB1226}|Default">
+  <MonoDevelop.Ide.ItemProperties.2__Calculate__Sequence__With__a__Queue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.6__Sequence__N--M PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.4__Linked__Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5__Linked__Queue FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3__Implement__Array__Based__Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1__Reverse__Number__With__Stack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/Trees.exe.config
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/Trees.exe
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/Trees.pdb
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/nunit.framework.dll
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/nunit.framework.pdb
+/Users/onrolll/Downloads/Trees/Trees/bin/Debug/nunit.framework.xml
+/Users/onrolll/Downloads/Trees/Trees/obj/Debug/Trees.csprojResolveAssemblyReference.cache
+/Users/onrolll/Downloads/Trees/Trees/obj/Debug/Trees.csproj.CoreCompileInputs.cache
+/Users/onrolll/Downloads/Trees/Trees/obj/Debug/Trees.exe
+/Users/onrolll/Downloads/Trees/Trees/obj/Debug/Trees.pdb

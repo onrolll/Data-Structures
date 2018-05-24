@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7D65AE23-025D-4A38-B57F-9A6E9FA3782F}|Default">
+  <MonoDevelop.Ide.ItemProperties.BinaryHeap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryHeap/HeapSortTests.cs">
+    <Files>
+      <File FileName="BinaryHeap/BinaryHeapTests.cs" Line="18" Column="1" />
+      <File FileName="BinaryHeap/BinaryHeap.cs" Line="98" Column="22" />
+      <File FileName="BinaryHeap/Heap.cs" Line="41" Column="32" />
+      <File FileName="BinaryHeap/HeapExample.cs" Line="30" Column="1" />
+      <File FileName="BinaryHeap/HeapSortTests.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/onrolll/Developer/algorithms_data_structures/BinaryHeap/BinaryHeap/HeapExample.cs" relfile="BinaryHeap/HeapExample.cs" line="18" column="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>BinaryHeap.Tests/BinaryHeap.Tests.csproj</String>
+  </DisabledProjects>
+</Properties>

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{5BD3C008-9F76-4A6B-8908-CA06AEC8607E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hierarchy.Core/Hierarchy.cs">
+    <Files>
+      <File FileName="Hierarchy.Core/Hierarchy.cs" Line="95" Column="18" />
+      <File FileName="Hierarchy.Core/Tests/Performance/GetCommonElements.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hierarchy.Skeleton" expanded="True">
+            <Node name="Hierarchy.Core" expanded="True">
+              <Node name="Hierarchy" expanded="True">
+                <Node name="Correctness" expanded="True">
+                  <Node name="Remove" expanded="True" />
+                </Node>
+                <Node name="Performance" expanded="True">
+                  <Node name="AddPerformance" expanded="True" />
+                  <Node name="GetChildrenPerformance" expanded="True" />
+                  <Node name="GetCommonElements" expanded="True">
+                    <Node name="PerformanceGetCommonElements_WithHalfCommonElementsInBothCollections" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/06. Hierarchy/C#-Skeleton/Hierarchy.Core/Program.cs" relfile="Hierarchy.Core/Program.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Hierarchy.Tests/Hierarchy.Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Hierarchy.Core PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
