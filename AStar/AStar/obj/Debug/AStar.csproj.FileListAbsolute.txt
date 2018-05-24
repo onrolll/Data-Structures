@@ -1,0 +1,10 @@
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/AStar.exe.config
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/AStar.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/AStar.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/nunit.framework.dll
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/nunit.framework.pdb
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/bin/Debug/nunit.framework.xml
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/obj/Debug/AStar.csprojResolveAssemblyReference.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/obj/Debug/AStar.csproj.CoreCompileInputs.cache
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/obj/Debug/AStar.exe
+/Users/onrolll/Developer/algorithms_data_structures/problem_sets/Exercises/Heaps_PriorityQueues_RBT_BT/AStar/AStar/obj/Debug/AStar.pdb
