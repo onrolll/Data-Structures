@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5E43EF9F-B4E4-483E-AF4F-5923695379BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuadTree.Core/Node.cs">
+    <Files>
+      <File FileName="QuadTree.Core/QuadTreeTests.cs" Line="15" Column="2" />
+      <File FileName="QuadTree.Core/QuadTree.cs" Line="55" Column="3" />
+      <File FileName="QuadTree.Core/Rectangle.cs" Line="33" Column="6" />
+      <File FileName="QuadTree.Core/TestBox.cs" Line="1" Column="1" />
+      <File FileName="QuadTree.Core/Node.cs" Line="1" Column="1" />
+      <File FileName="QuadTree.Core/IBoundable.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="QuadTreeLab" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QuadTree.Core PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
